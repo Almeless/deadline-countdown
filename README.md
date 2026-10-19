@@ -4,6 +4,8 @@
 
 **Автор:** Кузичкин Данил, группа М3118
 
+**Репозиторий:** [github.com/Almeless/deadline-countdown](https://github.com/Almeless/deadline-countdown)
+
 ## Описание
 
 Deadline Countdown помогает не забыть о сроке сдачи работы. Задаёшь название и дату дедлайна, и внизу окна VS Code появляется таймер, который обновляется каждую секунду. По мере приближения срока меняется смайлик и цвет полоски прогресса, а когда время выходит, плагин спрашивает, успел ли ты сдать работу.
@@ -33,7 +35,7 @@ Deadline Countdown помогает не забыть о сроке сдачи �
 ## Установка
 
 ```
-git clone <>
+git clone <https://github.com/Almeless/deadline-countdown.git>
 cd deadline-countdown
 npm install
 npm run compile
